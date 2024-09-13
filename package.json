@@ -19,10 +19,6 @@
     "wordpress-theme",
     "theme-development"
   ],
-  "main": "themeNew.cjs",
-  "bin": {
-    "create-wp-theme": "themeNew.cjs"
-  },
   "browserslist": [
     "extends @roots/browserslist-config"
   ],
@@ -31,7 +27,7 @@
   },
   "type": "module",
   "scripts": {
-    "postinstall": "node themeNew.cjs",
+
 
     "dev": "vite",
 
