@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": ".",
+        "paths": {
+            "@scripts/*": [
+                "resources/scripts/*"
+            ],
+            "@types/*": [
+                "resources/types/*"
+            ]
+        }
+    }
+} 
