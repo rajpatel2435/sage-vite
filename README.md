@@ -66,6 +66,7 @@ And Finally just run:
 - [Poet](https://github.com/Log1x/poet) provides simple configuration-based post type, taxonomy, editor color palette, block category, block pattern and block registration/modification.
 
 ## Author
+Berny Chavarria <bernyargenis@yahoo.com>
 
 Raj Patel <rajpatel2435@gmail.com>
-Berny Chavarria 
+
